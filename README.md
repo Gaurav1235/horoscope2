@@ -7,5 +7,5 @@ MONGODB_URI = "mongodb+srv://admin:*******@cluster0.******.mongodb.net/horoscope
 
 and then 
 
-npm i 
+-> npm i ->
 node app.js
